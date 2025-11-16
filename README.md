@@ -6,13 +6,6 @@ This project was developed as part of the evaluation process for the IISc Bangal
 This project presents a comprehensive **Road Accident Analysis Dashboard ** built in **Power BI**.  
 The dashboard provides insights into accident trends, causes, vehicle involvement, casualties, and road safety indicators.
 
----
-
-## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
-
----
-
 ## Key Features
 - Trend analysis of accidents over time  
 - Breakdown by **vehicle type**, **location**, and **weather conditions**  
